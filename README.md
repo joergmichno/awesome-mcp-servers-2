@@ -105,6 +105,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Chroma Package Search](https://trychroma.com/package-search)** - Add to coding agents like Claude or Cursor to give them the ability to understand and better use thousands of dependencies.
 - **[Chronulus AI](https://github.com/ChronulusAI/chronulus-mcp)** - Predict anything with Chronulus AI forecasting and prediction agents.
 - **[CircleCI](https://github.com/CircleCI-Public/mcp-server-circleci)** - Enable AI Agents to fix build failures from CircleCI.
+- **[ClawGuard](https://github.com/joergmichno/clawguard)** - Open-source AI agent security scanner. Detects prompt injection, jailbreaks, tool poisoning, and data exfiltration across 219 patterns and 15 languages. OWASP LLM + MCP Top 10 mapped, EU AI Act ready. [Free scan](https://prompttools.co/shield).
 - **[ClickHouse](https://github.com/ClickHouse/mcp-clickhouse)** - Query your [ClickHouse](https://clickhouse.com/) database server.
 - **[Cloudflare](https://github.com/cloudflare/mcp-server-cloudflare)** - Deploy, configure & interrogate your resources on the Cloudflare developer platform (e.g. Workers/KV/R2/D1)
 - **[Cloudbet](https://github.com/cloudbet/sports-mcp-server)** – Structured sports and esports data via Cloudbet API: fixtures, live odds, stake limits, and markets.
